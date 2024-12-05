@@ -9,4 +9,6 @@ Se explicará brevemente con ejemplos cómo funciona una librería de chemlib en
    
 4.  Reacciones químicas: Se balancean las ecuaciones químicas
                          Se realiza la presentación de las reacciones químicas.
+    
+Orozco Nieves Edna Vanesa    
 
